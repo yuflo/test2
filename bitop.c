@@ -1,6 +1,7 @@
 #include "stdio.h"
 #include "string.h"
 #include "math.h"
+#include "stdlib.h"
 
 unsigned getbits(unsigned x, int p, int n);
 unsigned setbits(unsigned x, int p, int n, unsigned y);
