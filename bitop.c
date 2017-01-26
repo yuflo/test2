@@ -20,7 +20,8 @@ int main(int argc, char *argv[]){
 	//printbit(getbits(x, p, n));
 	//setbits(x, p, n, y);
 	//invert(x, p, n);
-	//rightrot(x, n);
+	rightrot(x, n);
+	printf("git test..");
 }
 
 int str2int(char *s){
